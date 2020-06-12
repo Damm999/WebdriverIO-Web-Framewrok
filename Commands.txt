@@ -1,0 +1,4 @@
+To generate allure reports:
+allure generate [allure_output_dir] && allure open
+
+npm i 
